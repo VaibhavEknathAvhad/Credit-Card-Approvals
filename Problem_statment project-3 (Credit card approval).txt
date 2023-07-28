@@ -1,0 +1,5 @@
+Problem statement:
+To predict whether a credit card will get approved/rejected for a credit card applicant based on the information given in the dataset.
+
+Task:
+Apply different Classification ML models into the data and pick out which model perform the best (the highest accuracy).
